@@ -2,17 +2,7 @@
 
 # 🚀 AI Resume Analyzer
 
-<div align="center">
-  <br />
-    <img src="public/readme/hero.webp" alt="Project Banner">
-  <br />
-  <div>
-    <img alt="React" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img alt="Puter.js" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
-  </div>
-</div>
+
 
 ---
 
@@ -89,13 +79,4 @@ Open **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ---
 
-## 🔗 Assets
 
-All banners and media are stored in the `public/readme` folder.
-
-<img src="public/readme/videokit.webp" alt="Assets Banner">
-
----
-
-
-Would you like me to also **add a section at the end highlighting that this project is part of your portfolio** (so recruiters see it as *your* work, not just a copy of a tutorial)?
